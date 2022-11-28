@@ -1,6 +1,6 @@
 {
     "Settings": {
-        "IsGuideOn": true,
+        "IsGuideOn": false,
         "IsAppON": true,
         "IsWallpaperOn": true,
         "NewAppUrl":""
