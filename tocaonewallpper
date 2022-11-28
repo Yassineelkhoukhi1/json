@@ -1,0 +1,105 @@
+{
+    "Settings": {
+        "IsGuideOn": true,
+        "IsAppON": true,
+        "IsWallpaperOn": true,
+        "NewAppUrl":""
+    },
+    "AdsUnits": {
+        "AdmobBannerUnitId": "ca-app-pub-3940256099942544/6300978111",
+        "AdmobInterUnitId": "ca-app-pub-3940256099942544/1033173712",
+        "AdmobNativeUnitId": "ca-app-pub-3940256099942544/2247696110",
+        "AdmobOpenUnitId": "ca-app-pub-3940256099942544/3419835294",
+        "YandexBannerUnitId": "R-M-DEMO-300x250",
+        "YandexInterUnitId": "R-M-DEMO-interstitial",
+        "YandexNativeUnitId": "R-M-DEMO-native-i",
+        "FacebookBannerUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "FacebookInterUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "FacebookNativeUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "PangleBannerUniteId": "980099802",
+        "PangleInterUniteId": "980088188",
+        "PangleNativeUniteId": "980088216",
+        "PangleAppId": "8025677",
+        "UnityGameID": "4498203",
+        "IronKey": "85460dcd"
+    },
+    "AdsConfig": {
+        "InterType":"pangle",
+        "BannerType":"",
+        "NativeType":"",
+        "IsPangle": true,
+        "IsAdmobON": false,
+        "IsFacebookON": false,
+        "IsIronON": false,
+        "IsYandexON": false,
+        "IsUnityON": false
+    },
+    "Guide": [
+        {
+            "Title": "Title 1",
+            "Content": "Content 1",
+            "Imglink": ""
+        },
+        {
+            "Title": "Title 2",
+            "Content": "Content 2",
+            "Imglink": ""
+        },
+        {
+            "Title": "Title 3",
+            "Content": "Content 3",
+            "Imglink": ""
+        },
+        {
+            "Title": "Title 4",
+            "Content": "Content 4",
+            "Imglink": ""
+        },
+        {
+            "Title": "Title 5 ",
+            "Content": "Content 5",
+            "Imglink": ""
+        }
+    ],
+    "Wallpaper": [
+        {
+            "CategoryName": "New",
+            "CategoryImg": "https://imageio.forbes.com/specials-images/imageserve/60ef0721fbc581b88ef50570/Transformation/960x0.jpg?format=jpg&width=960",
+            "List": [
+                "https://w0.peakpx.com/wallpaper/217/75/HD-wallpaper-android-12-android-r-android-11.jpg",
+                "https://w0.peakpx.com/wallpaper/335/158/HD-wallpaper-flower-amoled-android-apple-black-dark-galaxy-ios-iphone-note-samsung.jpg",
+                "https://wallpapercave.com/wp/wp2556773.jpg",
+                "https://w0.peakpx.com/wallpaper/217/75/HD-wallpaper-android-12-android-r-android-11.jpg",
+                "https://w0.peakpx.com/wallpaper/335/158/HD-wallpaper-flower-amoled-android-apple-black-dark-galaxy-ios-iphone-note-samsung.jpg",
+                "https://wallpapercave.com/wp/wp2556773.jpg",
+                "https://w0.peakpx.com/wallpaper/217/75/HD-wallpaper-android-12-android-r-android-11.jpg",
+                "https://w0.peakpx.com/wallpaper/335/158/HD-wallpaper-flower-amoled-android-apple-black-dark-galaxy-ios-iphone-note-samsung.jpg",
+                "https://wallpapercave.com/wp/wp2556773.jpg",
+                "https://w0.peakpx.com/wallpaper/217/75/HD-wallpaper-android-12-android-r-android-11.jpg",
+                "https://w0.peakpx.com/wallpaper/335/158/HD-wallpaper-flower-amoled-android-apple-black-dark-galaxy-ios-iphone-note-samsung.jpg",
+                "https://wallpapercave.com/wp/wp2556773.jpg",
+                "https://w0.peakpx.com/wallpaper/217/75/HD-wallpaper-android-12-android-r-android-11.jpg",
+                "https://w0.peakpx.com/wallpaper/335/158/HD-wallpaper-flower-amoled-android-apple-black-dark-galaxy-ios-iphone-note-samsung.jpg",
+                "https://wallpapercave.com/wp/wp2556773.jpg"
+            ]
+        },
+        {
+            "CategoryName": "Populair",
+            "CategoryImg": "https://www.emotivebrand.com/wp-content/uploads/2018/11/future-proof-brand-PAGE-2017-1080x675.jpg",
+            "List": [
+                "https://i2.wp.com/i.pinimg.com/originals/57/ae/33/57ae33c4addb99eaa4a14676fed6d4f3.jpg",
+                "https://cdn.wallpapersafari.com/70/17/kAxvfm.jpg",
+                "https://cdn.wallpapersafari.com/89/30/5uOqiZ.jpg"
+            ]
+        },
+        {
+            "CategoryName": "Best",
+            "CategoryImg": "https://www.emotivebrand.com/wp-content/uploads/2018/11/future-proof-brand-PAGE-2017-1080x675.jpg",
+            "List": [
+                "https://wallpaper.dog/large/20364510.jpg",
+                "https://i.pinimg.com/736x/c1/79/95/c179952e5fee57c8544fb9bb7c4f5468.jpg",
+                "https://i.pinimg.com/736x/47/81/b8/4781b88fdd68c5a72aea0277587a00ae.jpg"
+            ]
+        }
+    ]
+}
