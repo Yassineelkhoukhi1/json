@@ -24,7 +24,7 @@
         "IronKey": "85460dcd"
     },
     "AdsConfig": {
-        "InterType":"pangle",
+        "InterType":"",
         "BannerType":"",
         "NativeType":"",
         "IsPangle": true,
