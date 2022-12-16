@@ -24,14 +24,14 @@
         "IronKey": "85460dcd"
     },
     "AdsConfig": {
-        "InterType":"pangle",
-        "BannerType":"",
-        "NativeType":"",
-        "IsPangle": true,
+        "InterType":"yandex",
+        "BannerType":"yandex",
+        "NativeType":"yandex",
+        "IsPangle": false,
         "IsAdmobON": false,
         "IsFacebookON": false,
         "IsIronON": false,
-        "IsYandexON": false,
+        "IsYandexON": true,
         "IsUnityON": false
     },
     "Guide": [
