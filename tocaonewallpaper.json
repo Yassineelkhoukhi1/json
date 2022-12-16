@@ -31,7 +31,7 @@
         "IsAdmobON": false,
         "IsFacebookON": false,
         "IsIronON": false,
-        "IsYandexON": true,
+        "IsYandexON": false,
         "IsUnityON": false
     },
     "Guide": [
