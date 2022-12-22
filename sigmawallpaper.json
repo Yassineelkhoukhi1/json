@@ -24,9 +24,9 @@
         "IronKey": "85460dcd"
     },
     "AdsConfig": {
-        "InterType":"",
-        "BannerType":"",
-        "NativeType":"",
+        "InterType":"yandex",
+        "BannerType":"yandex",
+        "NativeType":"yandex",
         "IsPangle": false,
         "IsAdmobON": false,
         "IsFacebookON": false,
