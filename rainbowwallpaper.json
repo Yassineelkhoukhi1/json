@@ -27,7 +27,7 @@
         "InterType":"",
         "BannerType":"",
         "NativeType":"",
-        "IsPangle": true,
+        "IsPangle": false,
         "IsAdmobON": false,
         "IsFacebookON": false,
         "IsIronON": false,
