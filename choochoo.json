@@ -2,7 +2,7 @@
     "Settings": {
         "IsGuideOn": true,
         "IsAppON": true,
-        "IsWallpaperOn": true
+        "IsWallpaperOn": false
     },
     "AdsUnits": {
         "AdmobBannerUnitId": "ca-app-pub-3940256099942544/6300978111",
@@ -31,7 +31,7 @@
         "IsFacebookON": false,
         "IsHuaweiON": false,
         "IsIronON": false,
-        "IsYandexON": true,
+        "IsYandexON": false,
         "IsUnityON": false
     },
     "Guide": [
