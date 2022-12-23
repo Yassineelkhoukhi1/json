@@ -19,7 +19,7 @@
         "PangleBannerUniteId": "980099802",
         "PangleInterUniteId": "980088188",
         "PangleNativeUniteId": "980088216",
-        "PangleAppId": "8025677",
+        "PangleAppId": "",
         "UnityGameID": "4498203",
         "IronKey": "85460dcd"
     },
@@ -27,7 +27,7 @@
         "InterType":"yandex",
         "BannerType":"yandex",
         "NativeType":"yandex",
-        "IsPangle": false,
+        "IsPangle": true,
         "IsAdmobON": false,
         "IsFacebookON": false,
         "IsIronON": false,
