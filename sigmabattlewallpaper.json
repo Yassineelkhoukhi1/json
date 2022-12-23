@@ -27,7 +27,7 @@
         "InterType":"yandex",
         "BannerType":"yandex",
         "NativeType":"yandex",
-        "IsPangle": false,
+        "IsPangle": true,
         "IsAdmobON": false,
         "IsFacebookON": false,
         "IsIronON": false,
