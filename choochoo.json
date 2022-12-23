@@ -31,7 +31,7 @@
         "IsFacebookON": false,
         "IsHuaweiON": false,
         "IsIronON": false,
-        "IsYandexON": false,
+        "IsYandexON": true,
         "IsUnityON": false
     },
     "Guide": [
