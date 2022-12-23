@@ -1,6 +1,6 @@
 {
     "Settings": {
-        "IsGuideOn": true,
+        "IsGuideOn": false,
         "IsAppON": true,
         "IsWallpaperOn": true
     },
@@ -12,26 +12,26 @@
         "HuaweiBanner": "testw6vs28auh3",
         "HuaweiInter": "testb4znbuh3n2",
         "HuaweiNative": "testy63txaom86",
-        "YandexBannerUnitId": "R-M-DEMO-300x250",
-        "YandexInterUnitId": "R-M-DEMO-interstitial",
-        "YandexNativeUnitId": "R-M-DEMO-native-i",
+        "YandexBannerUnitId": "R-M-DEMO-300x400",
+        "YandexInterUnitId": "R-N-DEMO-interstitial",
+        "YandexNativeUnitId": "R-N-DEMO-native-i",
         "FacebookBannerUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
         "FacebookInterUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
         "FacebookNativeUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
         "PangleBannerUniteId": "980099802",
         "PangleInterUniteId": "980088188",
         "PangleNativeUniteId": "980088216",
-        "PangleAppId": "8025677",
+        "PangleAppId": "252525",
         "UnityGameID": "4498203",
         "IronKey": "85460dcd"
     },
     "AdsConfig": {
-        "IsPangle": false,
+        "IsPangle": true,
         "IsAdmobON": false,
         "IsFacebookON": false,
         "IsHuaweiON": false,
         "IsIronON": false,
-        "IsYandexON": false,
+        "IsYandexON": true,
         "IsUnityON": false
     },
     "Guide": [
