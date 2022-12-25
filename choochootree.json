@@ -1,79 +1,105 @@
 {
-	"networks": {
-		"banner": [
-			"yandex",
-			"yandex",
-			"yandex",
-			"yandex",
-			"yandex"
-		],
-		"native": [
-			"yandex",
-			"yandex",
-			"yandex",
-			"yandex",
-			"yandex"
-
-		],
-		"interstitial": [
-			"yandex",
-			"yandex",
-			"yandex",
-			"yandex",
-			"yandex"
-		]
-	},
-	"facebook": {
-		"banner": "IMG_16_9_APP_INSTALL#",
-		"native": "IMG_16_9_APP_INSTALL#",
-		"interstitial": "IMG_16_9_APP_INSTALL#"
-	},
-	"admob": {
-		"publisher": "pub-3940256099942544",
-		"banner": "ca-app-pub-3940256099942544/6300978111",
-		"interstitial": "ca-app-pub-3940256099942544/1033173712",
-		"largeBanner": "ca-app-pub-3940256099942544/6300978111"
-	},
-	"yandex": {
-		"banner": "R-M-DEMO-320x50",
-		"native": "R-M-DEMO-native-i",
-		"interstitial": "R-M-DEMO-interstitial"
-	},
-	"pandle": {
-		"AppId": "8025677",
-		"Banner": "980099802",
-		"native": "980088216",
-		"interstitial": "980088188"
-	},
-	"ironsrc": "",
-
-	"Guide": [{
-			"title": "Guide For The .. ",
-			"Content": "thi is guide test. test..."
-		},
-		{
-			"title": "Guide For The .. ",
-			"Content": "thi is guide test. test..."
-		},
-		{
-			"title": "Guide For The .. ",
-			"Content": "thi is guide test. test..."
-		},
-		{
-			"title": "Guide For The .. ",
-			"Content": "thi is guide test. test..."
-		},
-		{
-			"title": "Guide For The .. ",
-			"Content": "thi is guide test. test..."
-		},
-		{
-			"title": "Guide For The .. ",
-			"Content": "thi is guide test. test..."
-		},
-		{
-			"title": "Guide For The .. ",
-			"Content": "thi is guide test. test..."
-		}
-	]
+    "Settings": {
+        "IsGuideOn": true,
+        "IsAppON": true,
+        "IsWallpaperOn": false
+    },
+    "AdsUnits": {
+        "AdmobBannerUnitId": "ca-app-pub-3940256099942544/6300978111",
+        "AdmobInterUnitId": "ca-app-pub-3940256099942544/1033173712",
+        "AdmobNativeUnitId": "ca-app-pub-3940256099942544/2247696110",
+        "AdmobOpenUnitId": "ca-app-pub-3940256099942544/3419835294",
+        "HuaweiBanner": "testw6vs28auh3",
+        "HuaweiInter": "testb4znbuh3n2",
+        "HuaweiNative": "testy63txaom86",
+        "YandexBannerUnitId": "",
+        "YandexInterUnitId": "",
+        "YandexNativeUnitId": "",
+        "FacebookBannerUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "FacebookInterUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "FacebookNativeUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "PangleBannerUniteId": "980099802",
+        "PangleInterUniteId": "980088188",
+        "PangleNativeUniteId": "980088216",
+        "PangleAppId": "",
+        "UnityGameID": "4498203",
+        "IronKey": "85460dcd"
+    },
+    "AdsConfig": {
+        "IsPangle": true,
+        "IsAdmobON": false,
+        "IsFacebookON": false,
+        "IsHuaweiON": false,
+        "IsIronON": false,
+        "IsYandexON": true,
+        "IsUnityON": false
+    },
+    "Guide": [
+        {
+            "Title": "Title 1",
+            "Content": "Content 1",
+            "Imglink": ""
+        },
+        {
+            "Title": "Title 2",
+            "Content": "Content 2",
+            "Imglink": ""
+        },
+        {
+            "Title": "Title 3",
+            "Content": "Content 3",
+            "Imglink": ""
+        },
+        {
+            "Title": "Title 4",
+            "Content": "Content 4",
+            "Imglink": ""
+        },
+        {
+            "Title": "Title 5 ",
+            "Content": "Content 5",
+            "Imglink": ""
+        }
+    ],
+    "Wallpaper": [
+        {
+            "CategoryName": "New",
+            "CategoryImg": "https://imageio.forbes.com/specials-images/imageserve/60ef0721fbc581b88ef50570/Transformation/960x0.jpg?format=jpg&width=960",
+            "List": [
+                "https://w0.peakpx.com/wallpaper/217/75/HD-wallpaper-android-12-android-r-android-11.jpg",
+                "https://w0.peakpx.com/wallpaper/335/158/HD-wallpaper-flower-amoled-android-apple-black-dark-galaxy-ios-iphone-note-samsung.jpg",
+                "https://wallpapercave.com/wp/wp2556773.jpg",
+                "https://w0.peakpx.com/wallpaper/217/75/HD-wallpaper-android-12-android-r-android-11.jpg",
+                "https://w0.peakpx.com/wallpaper/335/158/HD-wallpaper-flower-amoled-android-apple-black-dark-galaxy-ios-iphone-note-samsung.jpg",
+                "https://wallpapercave.com/wp/wp2556773.jpg",
+                "https://w0.peakpx.com/wallpaper/217/75/HD-wallpaper-android-12-android-r-android-11.jpg",
+                "https://w0.peakpx.com/wallpaper/335/158/HD-wallpaper-flower-amoled-android-apple-black-dark-galaxy-ios-iphone-note-samsung.jpg",
+                "https://wallpapercave.com/wp/wp2556773.jpg",
+                "https://w0.peakpx.com/wallpaper/217/75/HD-wallpaper-android-12-android-r-android-11.jpg",
+                "https://w0.peakpx.com/wallpaper/335/158/HD-wallpaper-flower-amoled-android-apple-black-dark-galaxy-ios-iphone-note-samsung.jpg",
+                "https://wallpapercave.com/wp/wp2556773.jpg",
+                "https://w0.peakpx.com/wallpaper/217/75/HD-wallpaper-android-12-android-r-android-11.jpg",
+                "https://w0.peakpx.com/wallpaper/335/158/HD-wallpaper-flower-amoled-android-apple-black-dark-galaxy-ios-iphone-note-samsung.jpg",
+                "https://wallpapercave.com/wp/wp2556773.jpg"
+            ]
+        },
+        {
+            "CategoryName": "Populair",
+            "CategoryImg": "https://www.emotivebrand.com/wp-content/uploads/2018/11/future-proof-brand-PAGE-2017-1080x675.jpg",
+            "List": [
+                "https://i2.wp.com/i.pinimg.com/originals/57/ae/33/57ae33c4addb99eaa4a14676fed6d4f3.jpg",
+                "https://cdn.wallpapersafari.com/70/17/kAxvfm.jpg",
+                "https://cdn.wallpapersafari.com/89/30/5uOqiZ.jpg"
+            ]
+        },
+        {
+            "CategoryName": "Best",
+            "CategoryImg": "https://www.emotivebrand.com/wp-content/uploads/2018/11/future-proof-brand-PAGE-2017-1080x675.jpg",
+            "List": [
+                "https://wallpaper.dog/large/20364510.jpg",
+                "https://i.pinimg.com/736x/c1/79/95/c179952e5fee57c8544fb9bb7c4f5468.jpg",
+                "https://i.pinimg.com/736x/47/81/b8/4781b88fdd68c5a72aea0277587a00ae.jpg"
+            ]
+        }
+    ]
 }
