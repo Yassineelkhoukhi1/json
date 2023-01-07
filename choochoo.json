@@ -26,12 +26,12 @@
         "IronKey": "85460dcd"
     },
     "AdsConfig": {
-        "IsPangle": false,
+        "IsPangle": true,
         "IsAdmobON": false,
         "IsFacebookON": false,
         "IsHuaweiON": false,
         "IsIronON": false,
-        "IsYandexON": true,
+        "IsYandexON": false,
         "IsUnityON": false
     },
     "Guide": [
