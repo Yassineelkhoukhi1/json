@@ -12,9 +12,9 @@
         "HuaweiBanner": "testw6vs28auh3",
         "HuaweiInter": "testb4znbuh3n2",
         "HuaweiNative": "testy63txaom86",
-        "YandexBannerUnitId": "R-M-DEMO-300x250",
-        "YandexInterUnitId": "R-M-DEMO-interstitial",
-        "YandexNativeUnitId": "R-M-DEMO-native-i",
+        "YandexBannerUnitId": "R-M-1533045-2",
+        "YandexInterUnitId": "R-M-1533045-1",
+        "YandexNativeUnitId": "R-M-1533045-3",
         "FacebookBannerUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
         "FacebookInterUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
         "FacebookNativeUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
@@ -26,12 +26,12 @@
         "IronKey": "85460dcd"
     },
     "AdsConfig": {
-        "IsPangle": true,
+        "IsPangle": false,
         "IsAdmobON": false,
         "IsFacebookON": false,
         "IsHuaweiON": false,
         "IsIronON": false,
-        "IsYandexON": false,
+        "IsYandexON": true,
         "IsUnityON": false
     },
     "Guide": [
