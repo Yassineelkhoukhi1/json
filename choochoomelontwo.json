@@ -12,16 +12,16 @@
         "HuaweiBanner": "testw6vs28auh3",
         "HuaweiInter": "testb4znbuh3n2",
         "HuaweiNative": "testy63txaom86",
-        "YandexBannerUnitId": "",
-        "YandexInterUnitId": "",
-        "YandexNativeUnitId": "",
+        "YandexBannerUnitId": "R-M-2135547-1",
+        "YandexInterUnitId": "R-M-2135547-3",
+        "YandexNativeUnitId": "R-M-2135547-2",
         "FacebookBannerUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
         "FacebookInterUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
         "FacebookNativeUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-        "PangleBannerUniteId": "980099802",
-        "PangleInterUniteId": "980088188",
-        "PangleNativeUniteId": "980088216",
-        "PangleAppId": "",
+        "PangleBannerUniteId": "980360985",
+        "PangleInterUniteId": "980360983",
+        "PangleNativeUniteId": "980360984",
+        "PangleAppId": "8103431",
         "UnityGameID": "4498203",
         "IronKey": "85460dcd"
     },
@@ -31,33 +31,33 @@
         "IsFacebookON": false,
         "IsHuaweiON": false,
         "IsIronON": false,
-        "IsYandexON": true,
+        "IsYandexON": false,
         "IsUnityON": false
     },
     "Guide": [
         {
-            "Title": "Title 1",
-            "Content": "Content 1",
+            "Title": "Choo choo charles helper",
+            "Content": "Half-Train, Half-Spider monster that roams the island of Aranearum. After terrorizing the people of the island for an unknown extensive amount of time, a professional hunter (The Player) is hired as a means of finally destroying Charles. Charles is eventually forced into a mortal battle in which he uses the life energy of mysterious monster eggs to fight back against the hunter",
             "Imglink": ""
         },
         {
-            "Title": "Title 2",
-            "Content": "Content 2",
+            "Title": "Choo choo charles helper",
+            "Content": "fortunate then, that the player can fight back at the helm of their trusty rail engine, although without making any improvements, their resistance won;t last very long. Players must spend scraps wisely and make sure to unlock certain new armaments to stand a chance at defeating Charles once and for all. Here are all the possible train upgrades, ranked by usefulness",
             "Imglink": ""
         },
         {
-            "Title": "Title 3",
-            "Content": "Content 3",
+            "Title": "Choo choo charles helper",
+            "Content": "Paint Cans can be found scattered across the island of Aranearum, usually in notable locations like caves or buildings, and sometimes in chests that must be unlocked to loot their contents. Theres a total of eleven different paint cans players can discover in the world, although they wont be easy to find",
             "Imglink": ""
         },
         {
-            "Title": "Title 4",
-            "Content": "Content 4",
+            "Title": "Choo choo charles helper",
+            "Content": "While applying a fresh coat of paint to the train does let players ride around in style, its purely an aesthetic decision and makes no difference in the struggle against Charles. However, if painting the train in a coat of cyan blue or lime green boosts morale, theres no reason for players not to flaunt their colors",
             "Imglink": ""
         },
         {
-            "Title": "Title 5 ",
-            "Content": "Content 5",
+            "Title": "Choo choo charles helper",
+            "Content": "While not necessarily an upgrade, as the player already starts with this weapon mounted on the back of their train, the Derailer mounted machine gun is one of the four weapon choices available to the player when taking on Charles",
             "Imglink": ""
         }
     ],
