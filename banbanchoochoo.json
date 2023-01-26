@@ -1,0 +1,31 @@
+{
+ 
+    "admob":  {
+        admobRunAds:true,
+        admobAppID:ca-app-pub-3940256099942544~3347511713,
+        admobbanner:ca-app-pub-3940256099942544/6300978111,
+        admobinterstitial:ca-app-pub-3940256099942544/1033173712,
+        admobreward:ca-app-pub-3940256099942544/5224354917,
+    },
+    "unity":  {
+        unityRunAds:false,
+        unityAppID:4390175,
+        unitybanner:Banner_Android,
+        unityinterstitial:Interstitial_Android,
+        unityreward:Rewarded_Android,
+    },
+    "facebook":  {
+        facebookRunAds:false,
+        facebookbanner:555001111669630_630650440771363,
+        facebookinterstitial:555001111669630_630673724102368,
+        facebookreward:555001111669630_630539314115809,
+    },
+ 
+    "Apploving":  {
+        ApplovingRunAds:true,
+        ApplovingSdkKey:_BAcCbeFoCiIcvJM81eMofy13FNkigCmM8AauGZdfRhK5f6DhXfuMciQbeyp0HGIvQCL5lheSIOuRdeHbuwMZu,
+        Applovingbanner:,
+        Applovinginterstitial:,
+        Applovingreward:,
+    }
+}
