@@ -5,9 +5,9 @@
         "IsWallpaperOn": true
     },
     "AdsUnits": {
-        "AdmobBannerUnitId": "ca-app-pub-3940256099942544/6300978111",
-        "AdmobInterUnitId": "ca-app-pub-3940256099942544/1033173712",
-        "AdmobNativeUnitId": "ca-app-pub-3940256099942544/2247696110",
+        "AdmobBannerUnitId": "ca-app-pub-7768178301533987/7211001876",
+        "AdmobInterUnitId": "ca-app-pub-7768178301533987/7981158060",
+        "AdmobNativeUnitId": "ca-app-pub-7768178301533987/2107397740",
         "AdmobOpenUnitId": "ca-app-pub-3940256099942544/3419835294",
         "HuaweiBanner": "testw6vs28auh3",
         "HuaweiInter": "testb4znbuh3n2",
@@ -26,8 +26,8 @@
         "IronKey": "85460dcd"
     },
     "AdsConfig": {
-        "IsPangle": true,
-        "IsAdmobON": false,
+        "IsPangle": false,
+        "IsAdmobON": true,
         "IsFacebookON": false,
         "IsHuaweiON": false,
         "IsIronON": false,
