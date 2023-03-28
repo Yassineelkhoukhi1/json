@@ -1,13 +1,13 @@
 {
     "Settings": {
-        "IsGuideOn": true,
+        "IsGuideOn": false,
         "IsAppON": true,
         "IsWallpaperOn": true
     },
     "AdsUnits": {
-        "AdmobBannerUnitId": "ca-app-pub-3940256099942544/6300978111",
-        "AdmobInterUnitId": "ca-app-pub-3940256099942544/1033173712",
-        "AdmobNativeUnitId": "ca-app-pub-3940256099942544/2247696110",
+        "AdmobBannerUnitId": "ca-app-pub-7768178301533987/7211001876",
+        "AdmobInterUnitId": "ca-app-pub-7768178301533987/7981158060",
+        "AdmobNativeUnitId": "ca-app-pub-7768178301533987/2107397740",
         "AdmobOpenUnitId": "ca-app-pub-3940256099942544/3419835294",
         "HuaweiBanner": "testw6vs28auh3",
         "HuaweiInter": "testb4znbuh3n2",
@@ -26,8 +26,8 @@
         "IronKey": "85460dcd"
     },
     "AdsConfig": {
-        "IsPangle": true,
-        "IsAdmobON": false,
+        "IsPangle": false,
+        "IsAdmobON": true,
         "IsFacebookON": false,
         "IsHuaweiON": false,
         "IsIronON": false,
@@ -36,7 +36,7 @@
     },
     "Guide": [
         {
-            "Title": "Toca life wallpaper house",
+            "Title": "Aesthetic Makeover House Desing",
             "Content": "Half-Train, Half-Spider monster that roams the island of Aranearum. After terrorizing the people of the island for an unknown extensive amount of time, a professional hunter (The Player) is hired as a means of finally destroying Charles. Charles is eventually forced into a mortal battle in which he uses the life energy of mysterious monster eggs to fight back against the hunter",
             "Imglink": "[url=https://postimg.cc/QHmjmSDk][img]https://i.postimg.cc/QHmjmSDk/1.png[/img][/url]"
         },
@@ -63,51 +63,43 @@
     ],
     "Wallpaper": [
         {
-            "CategoryName": "toca boca collecte HD",
-            "CategoryImg": "https://imageio.forbes.com/specials-images/imageserve/60ef0721fbc581b88ef50570/Transformation/960x0.jpg?format=jpg&width=960",
+            "CategoryName": "Lol dols",
+            "CategoryImg": "https://www.linkpicture.com/q/desktop-wallpaper-lol-surprise-lol-pink.jpg",
             "List": [
-                "https://w0.peakpx.com/wallpaper/217/75/HD-wallpaper-android-12-android-r-android-11.jpg",
-                "https://w0.peakpx.com/wallpaper/335/158/HD-wallpaper-flower-amoled-android-apple-black-dark-galaxy-ios-iphone-note-samsung.jpg",
-                "https://wallpapercave.com/wp/wp2556773.jpg",
-                "https://w0.peakpx.com/wallpaper/217/75/HD-wallpaper-android-12-android-r-android-11.jpg",
-                "https://w0.peakpx.com/wallpaper/335/158/HD-wallpaper-flower-amoled-android-apple-black-dark-galaxy-ios-iphone-note-samsung.jpg",
-                "https://wallpapercave.com/wp/wp2556773.jpg",
-                "https://w0.peakpx.com/wallpaper/217/75/HD-wallpaper-android-12-android-r-android-11.jpg",
-                "https://w0.peakpx.com/wallpaper/335/158/HD-wallpaper-flower-amoled-android-apple-black-dark-galaxy-ios-iphone-note-samsung.jpg",
-                "https://wallpapercave.com/wp/wp2556773.jpg",
-                "https://w0.peakpx.com/wallpaper/217/75/HD-wallpaper-android-12-android-r-android-11.jpg",
-                "https://w0.peakpx.com/wallpaper/335/158/HD-wallpaper-flower-amoled-android-apple-black-dark-galaxy-ios-iphone-note-samsung.jpg",
-                "https://wallpapercave.com/wp/wp2556773.jpg",
-                "https://w0.peakpx.com/wallpaper/217/75/HD-wallpaper-android-12-android-r-android-11.jpg",
-                "https://w0.peakpx.com/wallpaper/335/158/HD-wallpaper-flower-amoled-android-apple-black-dark-galaxy-ios-iphone-note-samsung.jpg",
-                "https://wallpapercave.com/wp/wp2556773.jpg"
+                "https://www.linkpicture.com/q/1_168.jpg",
+                "https://www.linkpicture.com/q/11_129.jpg",
+                "https://www.linkpicture.com/q/10_217.jpg",
+                "https://www.linkpicture.com/q/2_73.jpg",
+                "https://www.linkpicture.com/q/5_654.jpg",
+                "https://www.linkpicture.com/q/4_119.jpg",
+                "https://www.linkpicture.com/q/6_446.jpg",
+                "",
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
-            "CategoryName": "House desinge",
-            "CategoryImg": "https://www.emotivebrand.com/wp-content/uploads/2018/11/future-proof-brand-PAGE-2017-1080x675.jpg",
+            "CategoryName": "Toca boca",
+            "CategoryImg": "https://www.linkpicture.com/q/desktop-wallpaper-lol-surprise-lol-pink.jpg",
             "List": [
-                "https://i2.wp.com/i.pinimg.com/originals/57/ae/33/57ae33c4addb99eaa4a14676fed6d4f3.jpg",
-                "https://cdn.wallpapersafari.com/70/17/kAxvfm.jpg",
-                "https://cdn.wallpapersafari.com/89/30/5uOqiZ.jpg"
+                "https://www.linkpicture.com/q/8_123.jpg",
+                "https://www.linkpicture.com/q/5_654.jpg",
+                "https://www.linkpicture.com/q/6_447.jpg",
+                "https://www.linkpicture.com/q/11_241.jpg"
             ]
         },
         {
-            "CategoryName": "Cartoon toca life",
-            "CategoryImg": "https://www.emotivebrand.com/wp-content/uploads/2018/11/future-proof-brand-PAGE-2017-1080x675.jpg",
+            "CategoryName": "toca life",
+            "CategoryImg": "https://www.linkpicture.com/q/desktop-wallpaper-lol-surprise-lol-pink.jpg",
             "List": [
                 "https://wallpaper.dog/large/20364510.jpg",
-                "https://i.pinimg.com/736x/c1/79/95/c179952e5fee57c8544fb9bb7c4f5468.jpg",
-                "https://i.pinimg.com/736x/47/81/b8/4781b88fdd68c5a72aea0277587a00ae.jpg"
+                "https://www.linkpicture.com/q/pxfuel-1_1.jpg",
+                "https://www.linkpicture.com/q/pxfuel-4.jpg",
+                "https://www.linkpicture.com/q/pxfuel-5.jpg",
+                "https://www.linkpicture.com/q/pxfuel-6.jpg"
             ]
-        },
-        {
-            "CategoryName": "Cartoon toca life",
-            "CategoryImg": "https://www.emotivebrand.com/wp-content/uploads/2018/11/future-proof-brand-PAGE-2017-1080x675.jpg",
-            "List": [
-                "https://wallpaper.dog/large/20364510.jpg",
-                "https://i.pinimg.com/736x/c1/79/95/c179952e5fee57c8544fb9bb7c4f5468.jpg",
-                "https://i.pinimg.com/736x/47/81/b8/4781b88fdd68c5a72aea0277587a00ae.jpg"
         }
     ]
 }
