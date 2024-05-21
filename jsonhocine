@@ -1,10 +1,10 @@
 {
     "Setting": {
-        "Game": "https://lagged.com/en/g/brawl-stars",
+        "Game": "https://gamescdn.gamezop.com/B1jZWUoXUIe/index.html",
         "AppOn": true,
         "UnderRev": false,
         "Gamestate": true,
-        "TipsOn": true,
+        "TipsOn": false,
         "WellOn": false,
         "IsWelcome": false,
         "NewApp": "",
