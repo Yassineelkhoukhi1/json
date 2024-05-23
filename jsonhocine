@@ -1,11 +1,11 @@
 {
     "Setting": {
         "Game": "https://gamescdn.gamezop.com/B1jZWUoXUIe/index.html",
-        "AppOn": true,
+        "AppOn": false,
         "UnderRev": false,
         "Gamestate": true,
         "TipsOn": false,
-        "WellOn": false,
+        "WellOn": true,
         "IsWelcome": false,
         "NewApp": "",
         "isNativeOnExit":false,
