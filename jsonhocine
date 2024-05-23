@@ -5,7 +5,7 @@
         "UnderRev": false,
         "Gamestate": true,
         "TipsOn": false,
-        "WellOn": true,
+        "WellOn": false,
         "IsWelcome": false,
         "NewApp": "",
         "isNativeOnExit":false,
