@@ -42,7 +42,7 @@
         "IsPangle": false,
         "IsAdmobON": true,
         "IsFacebookON": false,
-        "IsYandexON": true,
+        "IsYandexON": false,
         "IsUnityON": false,
         "IsApplovin": false,
 	"InterType":"",
