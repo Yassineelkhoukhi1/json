@@ -12,10 +12,10 @@
          "imageUrl":""
     },
     "AdsUnits": {
-      	"AdmobAppId":"ca-app-pub-3940256099942544~3347511713",
-        "AdmobBanner": "ca-app-pub-3940256099942544/6300978111",
-        "AdmobInter": "ca-app-pub-3940256099942544/1033173712",
-        "AdmobNative": "ca-app-pub-3940256099942544/1044960115",
+      	"AdmobAppId":"ca-app-pub-6180686211899047~9587879000",
+        "AdmobBanner": "ca-app-pub-6180686211899047/6853904457",
+        "AdmobInter": "ca-app-pub-6180686211899047/8030173185",
+        "AdmobNative": "ca-app-pub-6180686211899047/4311701282",
         "AdmobRewardUnitId": "ca-app-pub-3940256099942544/5224354917",
         "YandexBanner": "R-M-DEMO-300x250",
         "YandexInter": "R-M-DEMO-interstitial",
