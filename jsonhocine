@@ -3,7 +3,7 @@
         "Game": "https://gamescdn.gamezop.com/B1jZWUoXUIe/index.html",
         "AppOn": true,
         "UnderRev": false,
-        "Gamestate": false,
+        "Gamestate": true,
         "TipsOn": true,
         "WellOn": false,
         "IsWelcome": true,
