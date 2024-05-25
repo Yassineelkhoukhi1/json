@@ -1,8 +1,8 @@
 {
     "Setting": {
         "Game": "https://gamescdn.gamezop.com/B1jZWUoXUIe/index.html",
-        "AppOn": false,
-        "UnderRev": true,
+        "AppOn": true,
+        "UnderRev": false,
         "Gamestate": false,
         "TipsOn": true,
         "WellOn": false,
