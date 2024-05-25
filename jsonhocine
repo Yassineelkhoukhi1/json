@@ -40,9 +40,9 @@
     },
     "AdsConfig": {
         "IsPangle": false,
-        "IsAdmobON": true,
+        "IsAdmobON": false,
         "IsFacebookON": false,
-        "IsYandexON": false,
+        "IsYandexON": true,
         "IsUnityON": false,
         "IsApplovin": false,
 	"InterType":"",
