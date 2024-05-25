@@ -6,7 +6,7 @@
         "Gamestate": false,
         "TipsOn": true,
         "WellOn": false,
-        "IsWelcome": false,
+        "IsWelcome": true,
         "NewApp": "",
         "isNativeOnExit":false,
          "imageUrl":""
